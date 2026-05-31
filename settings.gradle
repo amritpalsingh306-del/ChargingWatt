@@ -1,0 +1,2 @@
+rootProject.name = "ChargingWatt"
+include ':app'
